@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1089549712863",
+    "project_id": "chat-540a8",
+    "storage_bucket": "chat-540a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089549712863:android:5107da3099e20b5b2d586a",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089549712863-51nb4r3qrstd2lgrvukj57bai2nbi7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelGw_E9vEy7MvcR6sHJFceB_dg81Zxtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089549712863-51nb4r3qrstd2lgrvukj57bai2nbi7ub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089549712863-ldha807hntsqi2pc3l5sj2pqubjbitns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeeshan.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
